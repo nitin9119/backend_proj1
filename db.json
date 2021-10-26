@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "kitkat",
+      "price": "20"
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "price": 2.5,
+      "active": false
+    },
+    {
+      "id": "12",
+      "name": "sdsd",
+      "price": "1212"
+    },
+    {
+      "id": "1",
+      "name": "alpenlibe",
+      "price": "12"
+    },
+    {
+      "id": "4",
+      "name": "munch",
+      "price": "200"
+    }
+  ]
+}
